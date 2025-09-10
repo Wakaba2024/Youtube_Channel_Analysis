@@ -1,7 +1,7 @@
 # YouTube Data Analysis in Kenya
 
 ## 📝 Project Overview
-This project, titled "Data Analysis youtube_videos_EDA Project," is a comprehensive analysis of Kenyan YouTube channels using the YouTube API and Python. 
+This project is a comprehensive analysis of Kenyan YouTube channels using the YouTube API and Python. 
 
 The analysis focuses on a range of metrics, including subscriber trends, video content, and audience engagement. The goal is to provide insights into channel performance and content effectiveness.
 
